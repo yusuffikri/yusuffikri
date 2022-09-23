@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf Fikri Mustanir</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/69710004/191878659-6d02a004-ccd4-4184-887c-7c9f477c73a8.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuffikri&label=Profile%20views&color=0e75b6&style=flat" alt="yusuffikri" /> </p>
 
