@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **AOS**
 
-- 📫 How to reach me **yusuffiks99@gmail.com**
+- 📫 How to reach me **yusuffikri@iqis.sch.id**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1tc72e4KFCgIAcJM27lzjSUXmkiC9xiNE](https://drive.google.com/drive/folders/1tc72e4KFCgIAcJM27lzjSUXmkiC9xiNE)
 
