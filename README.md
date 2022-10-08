@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/yusufikri_" target="blank"><img src="https://img.shields.io/twitter/follow/yusufikri_?logo=twitter&style=for-the-badge" alt="yusufikri_" /></a> </p>
 
-- 🌱 I’m currently learning **React JS.**
+- 🌱 I’m currently learning everythings.
 
 - 👨‍💻 All of my projects are available at [https://yusuffikri.github.io/](https://yusuffikri.github.io/)
 
-- 💬 Ask me about **AOS**
+- 🌐 I'm mostly active on **Twitter**
 
 - 📫 How to reach me **yusuffikri@iqis.sch.id**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1tc72e4KFCgIAcJM27lzjSUXmkiC9xiNE](https://drive.google.com/drive/folders/1tc72e4KFCgIAcJM27lzjSUXmkiC9xiNE)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am a huge fan of Harry Potter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
