@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1tc72e4KFCgIAcJM27lzjSUXmkiC9xiNE](https://drive.google.com/drive/folders/1tc72e4KFCgIAcJM27lzjSUXmkiC9xiNE)
 
-- ⚡ Fun fact **I think I am a huge fan of Harry Potter**
+- ⚡ Fun fact **I am a huge fan of Harry Potter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
