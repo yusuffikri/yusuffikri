@@ -67,7 +67,7 @@
  
 <!-- Medium -->
 <a href="https://medium.com/@yusufikri_" rel="nofollow">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="max-width: 100%;" data-canonical->
+<img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" style="max-width: 100%;" data-canonical->
 </a>
  
  <!-- Tiktok-->
