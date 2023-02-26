@@ -15,21 +15,21 @@
 <div align="center"><h3><b>💻 Codestack:</b></h3>
  
 <!--  HTML5 -->
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23D90007.svg?style=for-the-badge&logo=html5&logoColor=white">
  
-<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+<img src="https://img.shields.io/badge/SASS-black.svg?style=for-the-badge&logo=SASS&logoColor=white">
  
 <!-- Javascript  -->
-<img src="https://img.shields.io/badge/javascript-ffdd00?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/javascript-%23D90007?style=for-the-badge&logo=javascript&logoColor=white">
 
  <!-- Typescript JS -->
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=white">
  
 <!-- React JS -->
-<img src="https://img.shields.io/badge/react-88CE02?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/react-%23D90007?style=for-the-badge&logo=react&logoColor=white">
 
 <!-- Vue JS -->
-<img src="https://img.shields.io/badge/vuejs-1867C0?style=for-the-badge&logo=vuedotjs&logoColor=AEDDFF">
+<img src="https://img.shields.io/badge/vuejs-black?style=for-the-badge&logo=vuedotjs&logoColor=white">
  
 
 </div>
@@ -42,37 +42,37 @@
  
 <!-- Gmail -->
 <a href="mailto:yusuffiks99@gmail.com" rel="nofollow">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical- style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" data-canonical- style="max-width: 100%;">
 </a>
  
 <!-- Instagram  -->
 <a href="https://instagram.com/yusufikri_" rel="nofollow">
-<img src="https://img.shields.io/badge/instagram-%23E4405F?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" data-canonical- style="max-width: 100%;">
+<img src="https://img.shields.io/badge/instagram-%23D90007?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" data-canonical- style="max-width: 100%;">
 </a>
 
 <!-- Twitter -->
 <a href="https://www.twitter.com/yusufikri_" rel="nofollow">
-<img src="https://camo.githubusercontent.com/d5f80ef3084744c656d9abdca2ed91185d52244e4d7b31a9ba931e97ee9a9b3d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146323f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/twitter-black?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
 </a>
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/yusuf-fikri-mustanir-231250218/" rel="nofollow">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;" data-canonical->
+<img src="https://img.shields.io/badge/LinkedIn-%23D90007?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;" data-canonical->
 </a>
  
 <!-- Telegram -->
 <a href="https://t.me/yusufikri7" rel="nofollow">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="max-width: 100%;" data-canonical->
+<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" style="max-width: 100%;" data-canonical->
 </a>
  
 <!-- Medium -->
 <a href="https://medium.com/@yusufikri_" rel="nofollow">
-<img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" style="max-width: 100%;" data-canonical->
+<img src="https://img.shields.io/badge/Medium-%23D90007.svg?style=for-the-badge&logo=medium&logoColor=white" style="max-width: 100%;" data-canonical->
 </a>
  
  <!-- Tiktok-->
 <a href="https://www.tiktok.com/@yusufikri" rel="nofollow">
-<img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" style="max-width: 100%;" data-canonical->
+<img src="https://img.shields.io/badge/TikTok-black.svg?style=for-the-badge&logo=TikTok&logoColor=white" style="max-width: 100%;" data-canonical->
 </a>
  
  </br>
