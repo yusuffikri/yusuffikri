@@ -15,18 +15,18 @@
 <div align="center"><h3><b>💻 Codestack:</b></h3>
  
 <!--  HTML5 -->
-<img src="https://img.shields.io/badge/html5-ff9900.svg?style=for-the-badge&logo=html5&logoColor=black">
+<img src="https://img.shields.io/badge/html5-fed020.svg?style=for-the-badge&logo=html5&logoColor=black">
  
 <img src="https://img.shields.io/badge/SASS-black.svg?style=for-the-badge&logo=SASS&logoColor=white">
  
 <!-- Javascript  -->
-<img src="https://img.shields.io/badge/javascript-ff9900?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/javascript-fed020?style=for-the-badge&logo=javascript&logoColor=black">
 
  <!-- Typescript JS -->
 <img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=white">
  
 <!-- React JS -->
-<img src="https://img.shields.io/badge/react-ff9900?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/react-fed020?style=for-the-badge&logo=react&logoColor=black">
 
 <!-- Vue JS -->
 <img src="https://img.shields.io/badge/vuejs-black?style=for-the-badge&logo=vuedotjs&logoColor=white">
@@ -47,7 +47,7 @@
  
 <!-- Instagram  -->
 <a href="https://instagram.com/yusufikri_" rel="nofollow">
-<img src="https://img.shields.io/badge/instagram-ff9900?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=black" data-canonical- style="max-width: 100%;">
+<img src="https://img.shields.io/badge/instagram-fed020?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=black" data-canonical- style="max-width: 100%;">
 </a>
 
 <!-- Twitter -->
@@ -57,7 +57,7 @@
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/yusuf-fikri-mustanir-231250218/" rel="nofollow">
-<img src="https://img.shields.io/badge/LinkedIn-ff9900?style=for-the-badge&logo=linkedin&logoColor=black" style="max-width: 100%;" data-canonical->
+<img src="https://img.shields.io/badge/LinkedIn-fed020?style=for-the-badge&logo=linkedin&logoColor=black" style="max-width: 100%;" data-canonical->
 </a>
  
 <!-- Telegram -->
@@ -67,7 +67,7 @@
  
 <!-- Medium -->
 <a href="https://medium.com/@yusufikri_" rel="nofollow">
-<img src="https://img.shields.io/badge/Medium-ff9900.svg?style=for-the-badge&logo=medium&logoColor=black" style="max-width: 100%;" data-canonical->
+<img src="https://img.shields.io/badge/Medium-fed020.svg?style=for-the-badge&logo=medium&logoColor=black" style="max-width: 100%;" data-canonical->
 </a>
  
  <!-- Tiktok-->
