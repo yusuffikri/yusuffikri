@@ -12,7 +12,7 @@
 <!-- Codestack -->
  </div>
 
-<div align="center"><h3><b>💻 Codestack</b></h3>
+<div align="center"><h3><b>💻 Codestack:</b></h3>
  
 <!--  HTML5 -->
 <img src="https://img.shields.io/badge/html5-fed020.svg?style=for-the-badge&logo=html5&logoColor=black">
