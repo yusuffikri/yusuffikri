@@ -6,7 +6,7 @@
 </div>
 
 <div align="center"><p><h4>Hi everyone 👋, I'm Yusuf Fikri Mustanir a 22 years old man who loves to code. Learning about programming is always been my passion. I'm new at programming but I'm learning everydays, and I'm always motivated to do more!</h4></p></div>
-1
+
 </br>
 
 <!-- Codestack -->
