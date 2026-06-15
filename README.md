@@ -5,7 +5,3 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyusuffikri&count_bg=%23060606&title_bg=%23CDD3B1&icon=electron.svg&icon_color=%23000000&title=Hello+Visitors%21&edge_flat=true"/></a>
 </div>
 
-<div align="center">
-<h4>Build with 🔥 in Bali, Indonesia </br>
- <a href="https://yusuffikri.github.io">yusuffikri.github.io</a></h4>
-</div>
