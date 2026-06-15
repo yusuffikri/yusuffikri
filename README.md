@@ -75,35 +75,7 @@
 <img src="https://img.shields.io/badge/TikTok-black.svg?style=for-the-badge&logo=TikTok&logoColor=white" style="max-width: 100%;" data-canonical->
 </a>
  
- </br>
- </br>
 
-<details>
-<summary><h3>📊 GitHub Stats</h3></summary>    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuffikri&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
- 
-</br>
-</br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=yusuffikri&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true">
- 
-</br>
-</br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuffikri&theme=graywhite&hide_border=false">
-
-</br>
-</br>
-
-<i>NOTE: Top languages does not indicate my skill level or something like that, it's a gihub metric of which languages i have the most code on github, it's a new feature of github-readme-stats.</i> 
-</details>
-
-<details>
-<summary><h3>✍️ Random Developer Quotes</h3></summary>    
- <h4><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"></h4>
-</details>
-
-</br>
 
 <div align="center">
 <h4>Build with 🔥 in Bali, Indonesia </br>
